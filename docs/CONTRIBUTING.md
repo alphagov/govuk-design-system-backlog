@@ -6,7 +6,7 @@ Here are some ways in which you can contribute:
 
 ## Discussing styles, components and patterns
 
-You can discuss the work being developed here by commenting on issues via the [issues list](https://github.com/alphagov/govuk-design-system-backlog/issues) or [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
+You can discuss the work being developed here by commenting on issues via the [issues list](https://github.com/alphagov/govuk-design-system-backlog/issues) or [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1).
 
 Examples of useful comments include:
 
@@ -21,16 +21,16 @@ Examples of useful comments include:
 
 If you have an idea for a new style, component or pattern you can propose it by [raising an issue](https://github.com/alphagov/govuk-design-system-backlog/issues/new).
 
-New issues will appear in the 'Proposed' column of the [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
+New issues will appear in the 'Proposed' column of the [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1).
 
 The [Design System working group](WORKING_GROUP.MD) will review new issues every fortnight against the [Design System criteria](CRITERIA.md).
 
-Issues that meet the criteria will be moved to the 'Agreed' column on the [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
+Issues that meet the criteria will be moved to the 'Agreed' column on the [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1).
 
 
 ## Developing styles, components and patterns
 
-Items in the 'Agreed' column of the [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3) are ready to be developed.
+Items in the 'Agreed' column of the [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1) are ready to be developed.
 
 If someone has been assigned to an item they will appear under the 'Assignees' section. Assigness are responsible for progressing the development of new styles, components and patterns. They may be doing the work themselves, or coordinating the contributions of others.
 
