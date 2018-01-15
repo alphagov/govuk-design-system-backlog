@@ -11,7 +11,7 @@ Items are managed using [GitHub issues](https://github.com/alphagov/govuk-design
 
 ---
 
-**[View the backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1)**
+### **[View the backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1)**
 
 ---
 
