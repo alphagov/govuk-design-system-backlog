@@ -1,6 +1,6 @@
 # GOV.UK Design System Backlog (beta)
 
-A place for the UK government design community to coordinate the development of new styles, components and patterns for the [GOV.UK Design System](https://github.com/alphagov/govuk-design-system), which is currently in private beta.
+This is a place for the UK government design community to coordinate the development of new styles, components and patterns for the [GOV.UK Design System](https://github.com/alphagov/govuk-design-system), which is currently in private beta.
 
 Items are managed using [GitHub issues](https://github.com/alphagov/govuk-design-system-backlog/issues) and tracked in this [GitHub Project](https://github.com/alphagov/govuk-design-system-backlog/projects/1).
 
