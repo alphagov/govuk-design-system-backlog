@@ -27,6 +27,8 @@ The [Design System working group](WORKING_GROUP.MD) will review new issues every
 
 Issues that meet the criteria will be moved to the 'Agreed' column on the [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1).
 
+Issues that do not meet the criteria will be moved to the 'Not doing' column on the [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1).
+
 
 ## Developing styles, components and patterns
 
