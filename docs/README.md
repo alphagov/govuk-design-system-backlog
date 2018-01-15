@@ -15,3 +15,8 @@ There are lots of ways you can contribute, from discussing existing patterns to 
 
 Check the [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1) to see what's needed, and remember to 
 [read our contribution guidelines](CONTRIBUTING.md).
+
+
+## Contributing
+
+If you have any questions about this backlog you can use the issue comments, email the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk) or use our [private beta Slack channel](https://ukgovernmentdigital.slack.com/messages/govukdesignsystem).
