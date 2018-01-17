@@ -1,6 +1,6 @@
 # GOV.UK Design System Backlog
 
-**[PRIVATE BETA] - Not for public use**
+**[PRIVATE BETA]**
 
 
 ## About this repo
