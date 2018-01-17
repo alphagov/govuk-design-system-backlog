@@ -17,7 +17,7 @@ Items are managed using [GitHub issues](https://github.com/alphagov/govuk-design
 
 ## Contributing
 
-There are lots of ways you can contribute, from discussing existing patterns to developing new ones.
+During private beta you can contribute by discussing and proposing styles, components and patterns.
 
 Check the [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1) to see what's needed, and remember to 
 [read our contribution guidelines](CONTRIBUTING.md).
