@@ -23,7 +23,7 @@ If you have an idea for a new style, component or pattern you can propose it by 
 
 New issues will appear in the 'Proposed' column of the [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1).
 
-The [Design System working group](WORKING_GROUP.MD) will review new issues every fortnight against the [Design System criteria](CRITERIA.md).
+New issues will be reviewed against the [Design System criteria](CRITERIA.md).
 
 Issues that meet the criteria will be moved to the 'Agreed' column on the [backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1).
 
@@ -36,7 +36,7 @@ Items in the 'Agreed' column of the [backlog](https://github.com/alphagov/govuk-
 
 If someone has been assigned to an item they will appear under the 'Assignees' section. Assigness are responsible for progressing the development of new styles, components and patterns. They may be doing the work themselves, or coordinating the contributions of others.
 
-You can ask to be assigned to an issue by leaving a comment, or by emailing the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk). The team will contact you for more information.
+You can request to be assigned to an issue by leaving a comment, or by emailing the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk). The team will contact you for more information.
 
 If you can no longer support the development of something, let the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk) know and we'll arrange for someone else to be assigned to it.
 
