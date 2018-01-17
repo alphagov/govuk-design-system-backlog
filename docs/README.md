@@ -25,4 +25,4 @@ Check the [backlog](https://github.com/alphagov/govuk-design-system-backlog/proj
 
 ## Support
 
-If you have any questions about this backlog you can use the issue comments, email the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk) or use our [Design System Slack channel](https://ukgovernmentdigital.slack.com/messages/govuk-design-system).
+If you have any questions about this backlog you can use the issue comments, email the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk) or use the [#govuk-design-system](https://ukgovernmentdigital.slack.com/messages/govuk-design-system) channel on cross-government Slack.
