@@ -23,7 +23,7 @@ The idea was that this place could host and help raise visibility on what people
 
 ## Cross- Government Design System workshop
 
-On 11 December 2017, 18 designers from across government took part in a workshop to:
+On 11 December 2017, 18 designers from across government (HO, MOJ, DWP, DVLA, HMRC, Land Registry, Environment Agency) took part in a workshop to:
 
 * agree a list of components and patterns that are needed in government 
 * generate ideas for cross-gov collaboration and contribution 
