@@ -29,6 +29,6 @@ During private beta you can contribute by discussing and proposing styles, compo
 
 A huge thanks to the following people who have contributed to the Design System.
 
-| Sanjay Pozyer | Michael Owen |
+| Sanjay Poyzer | Michael Owen |
 |:-------------:|:------------:|
-[![Sanjay's avatar](https://avatars2.githubusercontent.com/u/4106955?s=100&v=4)](https://github.com/sanjaypoyzer) | [![Michael's avatar](https://avatars2.githubusercontent.com/u/13904084?s=100&v=4)](https://github.com/owenm6)
+[![Sanjay's avatar](https://avatars2.githubusercontent.com/u/4106955?s=100&v=4)](https://github.com/alphagov/govuk-design-system-backlog/issues?utf8=%E2%9C%93&q=is%3Aissue+involves%3Asanjaypoyzer) | [![Michael's avatar](https://avatars2.githubusercontent.com/u/13904084?s=100&v=4)](https://github.com/alphagov/govuk-design-system-backlog/issues?utf8=%E2%9C%93&q=is%3Aissue+involves%3Aowenm6)
