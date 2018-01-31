@@ -25,8 +25,6 @@ During private beta you can contribute by discussing and proposing styles, compo
 
 [Read our contribution guidelines](CONTRIBUTING.md) and then [check the backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1) to see what's needed.
 
-## Contributors
-
 Huge thanks to these contributors.
 
 Sanjay | Michael
