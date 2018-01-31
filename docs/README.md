@@ -24,3 +24,9 @@ If you have any questions about this backlog you can use the issue comments, ema
 During private beta you can contribute by discussing and proposing styles, components and patterns.
 
 [Read our contribution guidelines](CONTRIBUTING.md) and then [check the backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1) to see what's needed.
+
+Thank you to the following contributors.
+
+Sanjay | Michael
+--- | ---
+![Sanjay's avatar](https://avatars2.githubusercontent.com/u/4106955?s=100&v=4) | ![Michael's avatar](https://avatars2.githubusercontent.com/u/13904084?s=100&v=4)
