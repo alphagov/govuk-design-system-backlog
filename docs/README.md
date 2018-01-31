@@ -29,4 +29,4 @@ Huge thanks to these contributors.
 
 Sanjay | Michael
 --- | ---
-![Sanjay's avatar](https://avatars2.githubusercontent.com/u/4106955?s=100&v=4) | ![Michael's avatar](https://avatars2.githubusercontent.com/u/13904084?s=100&v=4)
+[![Sanjay's avatar](https://avatars2.githubusercontent.com/u/4106955?s=100&v=4)](https://github.com/owenm6) | ![Michael's avatar](https://avatars2.githubusercontent.com/u/13904084?s=100&v=4)
