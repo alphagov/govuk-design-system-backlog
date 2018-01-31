@@ -27,7 +27,7 @@ During private beta you can contribute by discussing and proposing styles, compo
 
 ## Contributors
 
-Thank you to the following contributors.
+Huge thanks to these contributors.
 
 Sanjay | Michael
 --- | ---
