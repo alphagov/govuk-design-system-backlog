@@ -29,6 +29,6 @@ During private beta you can contribute by discussing and proposing styles, compo
 
 A huge thanks to the following people who have contributed to the Design System.
 
-Sanjay | Michael
---- | ---
+| Sanjay Pozyer | Michael Owen |
+|:-------------:|:------------:|
 [![Sanjay's avatar](https://avatars2.githubusercontent.com/u/4106955?s=100&v=4)](https://github.com/sanjaypoyzer) | [![Michael's avatar](https://avatars2.githubusercontent.com/u/13904084?s=100&v=4)](https://github.com/owenm6)
