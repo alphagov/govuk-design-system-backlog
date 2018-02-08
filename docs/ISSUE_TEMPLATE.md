@@ -1,16 +1,13 @@
 Use this template when proposing a new style, component or pattern.
 
-## Description
-Give a brief description of the style, component or pattern.
+## What
+Give a brief description of the style, component or pattern you want to propose.
 
-## User needs
-Why do you think this should be included in the design system?
+## Why
+Explain why you think this should be added to the GOV.UK Design System.
 
-## Examples
-Include links to any demos, images or live examples of the component or pattern.
+- What evidence do you have that it's needed by multiple services across government?
+- Have you checked that it doesn't already exist in the GOV.UK Design System?
 
-## Research
-If available, include links to any research relating to the component or pattern.
-
-## Code
-Include links to any code relating to the component or pattern.
+## Anything else
+Include links to any examples, research or code to support your proposal, if available.
