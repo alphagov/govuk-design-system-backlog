@@ -17,7 +17,7 @@ The GOV.UK Design System is currently in private beta. We will be developing thi
 
 These guidelines are designed to help the members of the working group review components and patterns on the backlog. 
 
-## Reviewing new proposals
+### Reviewing new proposals
 
 Anyone can propose a new component or pattern for the GOV.UK Design System by raising an issue in the [Design System backlog](https://github.com/alphagov/govuk-design-system-backlog). It’s the job of the working group to review these proposals against the [Design System criteria](/CRITERIA.md).
 
