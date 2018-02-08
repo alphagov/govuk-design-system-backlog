@@ -1,8 +1,10 @@
-# Design System criteria
+# GOV.UK Design System criteria
+
+To help ensure that the contents of the GOV.UK Design System are of a high quality and meet user needs, all components and patterns must meet the following criteria.
 
 <br>
 
-## New proposals
+## Agreeing proposals
 
 To be considered for inclusion in the GOV.UK Design System, components and patterns must be:
 
@@ -17,7 +19,7 @@ The [working group](WORKING_GROUP.md) will review all proposals in the [backlog]
 
 ## Before publication
 
-Before new components and patterns are published into the Design System, the working group will review them again to make sure that they are:
+Before new components and patterns are published into the GOV.UK Design System, the working group will review them again to make sure that they are:
 
 | Criteria     | Description |
 | :----------- | :---------- |
