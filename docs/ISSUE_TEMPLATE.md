@@ -6,9 +6,10 @@
 ## Why
 > Explain why you think this should be added to the GOV.UK Design System.
 >
-> - Is it needed by multiple services across government?
-> - Does it meets the needs of the users of those services?
-> - Could those needs be better met by something already in the Design System?
+> - What evidence do you have that it's needed by multiple services across government?
+> - What evidence do you have that it meets the needs of the users of those services?
+> - Does it already exist in the GOV.UK Design System? 
+> - If it does already exist in the GOV.UK Design System, what evidence do you have that this version better meets user needs than the existing version?
 
 ## Anything else
 > Include links to any examples, research or code to support your proposal, if available.
