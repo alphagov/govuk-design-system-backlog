@@ -3,7 +3,7 @@ components and patterns published in the GOV.UK Design System are of a high qual
 
 They do this by:
 
-- developing the [Design System criteria](/CRITERIA.md)
+- developing the [Design System criteria](https://github.com/alphagov/govuk-design-system-backlog/blob/master/docs/CRITERIA.md)
 - reviewing new proposals against the criteria
 - approving new styles, components and patterns for publication
 - resolving queries escalated to them by the GOV.UK Design System team
@@ -19,7 +19,7 @@ These guidelines are designed to help the members of the working group review co
 
 ### Reviewing new proposals
 
-Anyone can propose a new component or pattern for the GOV.UK Design System by raising an issue in the [Design System backlog](https://github.com/alphagov/govuk-design-system-backlog). It’s the job of the working group to review these proposals against the [Design System criteria](/CRITERIA.md).
+Anyone can propose a new component or pattern for the GOV.UK Design System by raising an issue in the [Design System backlog](https://github.com/alphagov/govuk-design-system-backlog). It’s the job of the working group to review these proposals against the [Design System criteria](https://github.com/alphagov/govuk-design-system-backlog/blob/master/docs/CRITERIA.md).
 
 Members of the working group will meet once a month to review outstanding proposals. The GOV.UK Design System team will send a list of the proposals to the working group one week before each meeting, to allow them to look at them in advance, if they want to.
 
