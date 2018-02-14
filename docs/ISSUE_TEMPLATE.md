@@ -2,7 +2,7 @@
 
 > Use this template when proposing a new style, component or pattern. 
 
-> If you are suggesting a change to something that already exists in the GOV.UK Design System, please propose it by commenting on the issue for that style, component or pattern. You can find issues for all published content in the ['Published' column](https://github.com/alphagov/govuk-design-system-backlog/projects/1#column-2000330) of the GOV.UK Design System backlog.
+> If you are suggesting a change to something that already exists in the GOV.UK Design System, please propose it by commenting on the issue for that style, component or pattern. You can find issues for all published content in the 'Published' column of the GOV.UK Design System backlog.
 
 ---
 
