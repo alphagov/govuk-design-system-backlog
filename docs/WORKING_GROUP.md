@@ -9,8 +9,6 @@ They do this by:
 - resolving queries escalated to them by the GOV.UK Design System team
 - representing the needs of users from their department
 
-The members of the working group are nominated by each department's Head of Design.
-
 ## Working group guidelines
 
 The GOV.UK Design System is currently in private beta. We will be developing this guidance based on user research over the next few weeks.
