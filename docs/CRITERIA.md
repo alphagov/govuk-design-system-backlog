@@ -4,7 +4,7 @@ To help ensure that the contents of the GOV.UK Design System are of a high quali
 
 <br>
 
-## Agreeing proposals
+## New proposals
 
 To be considered for inclusion in the GOV.UK Design System, components and patterns must be:
 
