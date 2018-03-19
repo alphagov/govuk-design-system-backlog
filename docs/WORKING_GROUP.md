@@ -21,7 +21,7 @@ Anyone can propose a new component or pattern for the GOV.UK Design System by ra
 
 It’s the job of the working group to review new proposals and contributions against the [Design System criteria](https://github.com/alphagov/govuk-design-system-backlog/blob/master/docs/CRITERIA.md).
 
-Members of the working group will meet once a month to review outstanding contributions. The GOV.UK Design System team will send a list of the contributions to the working group one week before each meeting, to allow them to look at them in advance, if they want to.
+Members of the working group will meet once a month to review outstanding contributions. The GOV.UK Design System team will send a list of the contributions to the working group one week before each meeting, to allow them to look at them in advance.
 
 A member of the GOV.UK Design System team will facilitate the meeting and record  the outcome for each proposal and contribution in a decision log. They will also record details of any recommendations which need to be fed back to the contributor. 
 
@@ -35,7 +35,7 @@ At this point, the contributors will also be given any recommendations from the 
 
 ### Reviewing new proposals
 
-During the meeting, the group should go through each proposed idea one at a time, and decide whether it is Useful and Unique in accordance with the [Design System criteria](https://github.com/alphagov/govuk-design-system-backlog/blob/master/docs/CRITERIA.md) for new propsals. 
+During the meeting, the group should go through each proposed idea one at a time, and decide whether it is useful and unique in accordance with the [Design System criteria](https://github.com/alphagov/govuk-design-system-backlog/blob/master/docs/CRITERIA.md) for new propsals. 
 
 Decisions should be made based on the idea for a component or pattern, and not on any specific implementation which might have been shared in the issue. 
 
