@@ -23,4 +23,4 @@ During private beta we will be exploring ways of reviewing new issues against th
 
 During private beta we may consider offers to develop something on the backlog, but we're not yet ready to accept all requests. If there's something you'd be interested in working on, comment on it's issue or [email the team](govuk-design-system-support@digital.cabinet-office.gov.uk).
 
-If you're writing code, please follow our [coding standards](https://github.com/alphagov/govuk-frontend/blob/master/docs/coding-standards/index.md)
+If you're writing code, please follow our [coding standards](https://github.com/alphagov/govuk-frontend/blob/master/docs/coding-standards/index.md).
