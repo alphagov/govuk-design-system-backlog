@@ -15,6 +15,11 @@ Items are managed using [GitHub issues](https://github.com/alphagov/govuk-design
 
 ---
 
+## Support
+
+If you have any questions about this backlog you can use the issue comments, email the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk) or use the [#govuk-design-system](https://ukgovernmentdigital.slack.com/messages/govuk-design-system) channel on cross-government Slack.
+
+
 ## Contributing
 
 During private beta you can contribute by discussing and proposing styles, components and patterns.
@@ -22,6 +27,10 @@ During private beta you can contribute by discussing and proposing styles, compo
 [Read our contribution guidelines](CONTRIBUTING.md) and then [check the backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1) to see what's needed.
 
 
-## Support
+### Contributors
 
-If you have any questions about this backlog you can use the issue comments, email the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk) or use the [#govuk-design-system](https://ukgovernmentdigital.slack.com/messages/govuk-design-system) channel on cross-government Slack.
+A huge thanks to the following people who have contributed to the Design System.
+
+| Sanjay Poyzer | Michael Owen | Adam Silver  |
+|:-------------:|:------------:|:------------:|
+[![Sanjay's avatar](https://avatars2.githubusercontent.com/u/4106955?s=100&v=4)](https://github.com/alphagov/govuk-design-system-backlog/issues?utf8=%E2%9C%93&q=is%3Aissue+involves%3Asanjaypoyzer) | [![Michael's avatar](https://avatars2.githubusercontent.com/u/13904084?s=100&v=4)](https://github.com/alphagov/govuk-design-system-backlog/issues?utf8=%E2%9C%93&q=is%3Aissue+involves%3Aowenm6) | [![Adam's avatar](https://avatars2.githubusercontent.com/u/37163?s=100&v=4)](https://github.com/alphagov/govuk-design-system-backlog/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Aadamsilver+)
