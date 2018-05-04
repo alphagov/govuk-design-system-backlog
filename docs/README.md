@@ -31,6 +31,6 @@ During private beta you can contribute by discussing and proposing styles, compo
 
 A huge thanks to the following people who have contributed to the Design System.
 
-| Sanjay Poyzer | Michael Owen | Adam Silver  |
-|:-------------:|:------------:|:------------:|
-[![Sanjay's avatar](https://avatars2.githubusercontent.com/u/4106955?s=100&v=4)](https://github.com/alphagov/govuk-design-system-backlog/issues?utf8=%E2%9C%93&q=is%3Aissue+involves%3Asanjaypoyzer) | [![Michael's avatar](https://avatars2.githubusercontent.com/u/13904084?s=100&v=4)](https://github.com/alphagov/govuk-design-system-backlog/issues?utf8=%E2%9C%93&q=is%3Aissue+involves%3Aowenm6) | [![Adam's avatar](https://avatars2.githubusercontent.com/u/37163?s=100&v=4)](https://github.com/alphagov/govuk-design-system-backlog/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Aadamsilver+)
+| Sanjay Poyzer | Michael Owen | Adam Silver  | Steven Proctor |
+|:-------------:|:------------:|:------------:|:--------------:|
+[![Sanjay's avatar](https://avatars2.githubusercontent.com/u/4106955?s=100&v=4)](https://github.com/alphagov/govuk-design-system-backlog/issues?utf8=%E2%9C%93&q=is%3Aissue+involves%3Asanjaypoyzer) | [![Michael's avatar](https://avatars2.githubusercontent.com/u/13904084?s=100&v=4)](https://github.com/alphagov/govuk-design-system-backlog/issues?utf8=%E2%9C%93&q=is%3Aissue+involves%3Aowenm6) | [![Adam's avatar](https://avatars2.githubusercontent.com/u/37163?s=100&v=4)](https://github.com/alphagov/govuk-design-system-backlog/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Aadamsilver+) | [![Steven's avatar](https://avatars2.githubusercontent.com/u/11977962?s=100&v=4)](https://github.com/alphagov/govuk-design-system-backlog/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Astevenaproctor+) |
