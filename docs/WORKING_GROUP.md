@@ -14,7 +14,7 @@ They do this by:
 
 The GOV.UK Design System is currently in beta. We will be developing this guidance based on user research over the coming months.
 
-These guidelines are designed to help the members of the working group review components and patterns on the [community backlog](https://github.com/alphagov/govuk-design-system-backlog)
+These guidelines are designed to help the members of the working group review components and patterns on the [community backlog](https://github.com/alphagov/govuk-design-system-backlog).
 
 ## Reviewing contributions
 
