@@ -1,5 +1,6 @@
-The Design System working group is a multi-disciplinary, cross-government group whose purpose is to ensure that any styles, 
-components and patterns published in the GOV.UK Design System are of a high quality and meet user needs.
+## Design System working group
+
+The Design System working group is a multi-disciplinary, cross-government group whose purpose is to ensure that any components and patterns published in the GOV.UK Design System are of a high quality and meet user needs.
 
 They do this by:
 
