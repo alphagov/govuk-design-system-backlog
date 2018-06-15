@@ -1,8 +1,5 @@
 # GOV.UK Design System Backlog
 
-**[PRIVATE BETA]**
-
-
 ## About this repo
 
 This is a place for the UK government design community to coordinate the development of new styles, components and patterns for the private beta of the [GOV.UK Design System](https://github.com/alphagov/govuk-design-system).
@@ -22,7 +19,7 @@ If you have any questions about this backlog you can use the issue comments, ema
 
 ## Contributing
 
-During private beta you can contribute by discussing and proposing styles, components and patterns.
+During beta you can contribute by discussing and proposing styles, components and patterns.
 
 [Read our contribution guidelines](CONTRIBUTING.md) and then [check the backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1) to see what's needed.
 
