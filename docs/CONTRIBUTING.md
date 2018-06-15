@@ -23,3 +23,6 @@ If you have an idea for a new component or pattern you can propose it by [raisin
 
 If there’s something you’d be interested in working on, comment on its issue in the [community backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1) or email the Design System team.
 
+## Design System criteria
+
+To help ensure that the contents of the GOV.UK Design System are of a high quality and meet user needs, all new proposals, components and patterns must meet the [Design System criteria](https://github.com/alphagov/govuk-design-system-backlog/blob/master/docs/CRITERIA.md).
