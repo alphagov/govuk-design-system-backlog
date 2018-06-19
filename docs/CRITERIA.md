@@ -26,7 +26,6 @@ Before new components and patterns are published into the GOV.UK Design System, 
 | Usable       | It has been tested in user research and shown to work with a representative sample of users, including those with disabilities. <br><br> *Components and patterns which do not meet the ‘usable’ criteria can be published as ‘experimental’, provided that they are based on relevant user research from other organisations and best practice, and meet the other criteria. <br><br> Most new components and patterns will be published as experimental at first. The experimental tag can be removed once they have been validated through research in a range of services, and with different types of users.*|
 | Consistent   | It uses existing styles and components in the GOV.UK Design System where relevant. Any code follows [GOV.UK Frontend coding standards](https://github.com/alphagov/govuk-frontend/blob/master/CONTRIBUTING.md#conventions-to-follow) and is ready to merge in GOV.UK Frontend.|
 | Versatile    | It can be easily applied in different contexts.|
-| Coded        | Components are ready to merge in GOV.UK Frontend.|
 | Tested       | It’s been tested and shown to work with a range of [browsers, assistive technologies and devices](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices).|
 | Considered   | There are no obvious political, security or ethical implications.|
 
