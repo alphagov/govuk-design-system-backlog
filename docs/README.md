@@ -1,8 +1,8 @@
-# GOV.UK Design System Backlog
+# GOV.UK Design System Community Backlog
 
 ## About this repo
 
-This is a place for the UK government design community to coordinate the development of new components and patterns for the  beta of the [GOV.UK Design System](https://design-system.service.gov.uk/).
+This is a place for the UK government community to coordinate the development of new components and patterns for the  beta of the [GOV.UK Design System](https://design-system.service.gov.uk/).
 
 
 ---
