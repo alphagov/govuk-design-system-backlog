@@ -1,12 +1,8 @@
-# New issue template
+<!--
+If you are suggesting a change to something that already exists in the GOV.UK Design System, please propose it by commenting on the issue for that style, component or pattern. You can find issues for all published content in the 'Published' column of the GOV.UK Design System backlog.
 
-> Use this template when proposing a new style, component or pattern. 
-
-> If you are suggesting a change to something that already exists in the GOV.UK Design System, please propose it by commenting on the issue for that style, component or pattern. You can find issues for all published content in the 'Published' column of the GOV.UK Design System backlog.
-
-> If you need help putting your proposal together, you can email the Design System team at govuk-design-system-support@digital.cabinet-office.gov.uk.
-
----
+If you need help putting your proposal together, you can email the Design System team at govuk-design-system-support@digital.cabinet-office.gov.uk.
+-->
 
 ## What
 > Give a brief description of the style, component or pattern you want to propose.
