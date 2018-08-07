@@ -1,32 +1,41 @@
 # GOV.UK Design System criteria
 
-To help ensure that the contents of the GOV.UK Design System are of a high quality and meet user needs, all components and patterns must meet the following criteria.
+The contents of the GOV.UK Design System are high quality and meet user needs. To guarantee this, all components and patterns must meet certain criteria.
 
 <br>
 
 ## New proposals
 
-To be considered for inclusion in the GOV.UK Design System, components and patterns must be:
+To be successful, proposals need to show that the component or pattern being suggested would be useful and unique.
 
 | Criteria | Description |
 | :------- | :---------- |
-| Useful   | It addresses a user need that’s shared by multiple services or products. |
+| Useful   | There is evidence that this component or pattern would be useful for many teams or services. Evidence could be screenshots or links to versions of it being used in different services. |
 | Unique   | It doesn’t duplicate something which already exists in the GOV.UK Design System, unless it’s intended to replace it. |
 
-The [working group](WORKING_GROUP.md) will review all proposals in the [community backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1) to check they meet these criteria, before they are agreed.  
+The Design System [working group](WORKING_GROUP.md) reviews proposals in the [community backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1) to check they meet these criteria. Proposals that meet the criteria will then be moved into the 'To do' column, ready to be worked on. 
 
 <br>
 
-## Before publication
+## Before a component or pattern is published
 
-Before new components and patterns are published into the GOV.UK Design System, the working group will review them again to make sure that they are:
+The working group reviews the implementation to make sure it is usable, consistent and versatile.
 
 | Criteria     | Description |
 | :----------- | :---------- |
-| Usable       | It has been tested in user research and shown to work with a representative sample of users, including those with disabilities. <br><br> *Components and patterns which do not meet the ‘usable’ criteria can be published as ‘experimental’, provided that they are based on relevant user research from other organisations and best practice, and meet the other criteria. <br><br> Most new components and patterns will be published as experimental at first. The experimental tag can be removed once they have been validated through research in a range of services, and with different types of users.*|
-| Consistent   | It uses existing styles and components in the GOV.UK Design System where relevant. Any code follows [GOV.UK Frontend coding standards](https://github.com/alphagov/govuk-frontend/blob/master/CONTRIBUTING.md#conventions-to-follow) and is ready to merge in GOV.UK Frontend.|
-| Versatile    | It can be easily applied in different contexts.|
-| Tested       | It’s been tested and shown to work with a range of [browsers, assistive technologies and devices](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices).|
-| Considered   | There are no obvious political, security or ethical implications.|
+| Usable       | It has been tried in user research and shown to work with a representative sample of users, including those with disabilities. <br>
+Components and patterns which are not proven usable can be published as experimental. But they must be clearly based on relevant user research from other organisations and best practice, and meet the other criteria.
+|
+| Consistent   | It reuses existing styles and components in the GOV.UK Design System where possible. <br>
+Both the guidance and any content included in examples must follow the [GOV.UK content style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style). <br> 
+
+Any code follows the [GOV.UK Frontend coding standards](https://github.com/alphagov/govuk-frontend/tree/master/docs/contributing/coding-standards) and is ready to merge into GOV.UK Frontend.|
+| Versatile    | 
+The implementation is versatile enough that component or pattern can be used in a range of different services that may need it. <br>
+
+For example, a versatile date input component could be set up to ask for a year only, a month and year only, a precise date, or any other combination you may need. <br>
+
+The component or pattern must also have been tested and shown to work with a range of browsers, assistive technologies and devices.
+|
 
 To find out more, read the GOV.UK Design System [contribution guidelines](CONTRIBUTING.md).
