@@ -24,12 +24,10 @@ The working group reviews the implementation to make sure it is usable, consiste
 | Criteria     | Description |
 | :----------- | :---------- |
 | Usable       | It has been tried in user research and shown to work with a representative sample of users, including those with disabilities. <br>
-Components and patterns which are not proven usable can be published as experimental. But they must be clearly based on relevant user research from other organisations and best practice, and meet the other criteria.
-|
+Components and patterns which are not proven usable can be published as experimental. But they must be clearly based on relevant user research from other organisations and best practice, and meet the other criteria. |
 | Consistent   | It reuses existing styles and components in the GOV.UK Design System where possible. <br>
 Both the guidance and any content included in examples must follow the [GOV.UK content style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style). <br> 
-
-Any code follows the [GOV.UK Frontend coding standards](https://github.com/alphagov/govuk-frontend/tree/master/docs/contributing/coding-standards) and is ready to merge into GOV.UK Frontend.|
+Any code follows the [GOV.UK Frontend coding standards](https://github.com/alphagov/govuk-frontend/tree/master/docs/contributing/coding-standards) and is ready to merge into GOV.UK Frontend. |
 | Versatile    | 
 The implementation is versatile enough that component or pattern can be used in a range of different services that may need it. <br>
 
