@@ -23,15 +23,15 @@ The working group reviews the implementation to make sure it is usable, consiste
 
 | Criteria     | Description |
 | :----------- | :---------- |
-| Usable       | It has been tried in user research and shown to work with a representative sample of users, including those with disabilities. <br>
+| Usable       | It has been tried in user research and shown to work with a representative sample of users, including those with disabilities.
 Components and patterns which are not proven usable can be published as experimental. But they must be clearly based on relevant user research from other organisations and best practice, and meet the other criteria. |
-| Consistent   | It reuses existing styles and components in the GOV.UK Design System where possible. <br>
-Both the guidance and any content included in examples must follow the [GOV.UK content style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style). <br> 
+| Consistent   | It reuses existing styles and components in the GOV.UK Design System where possible.
+Both the guidance and any content included in examples must follow the [GOV.UK content style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style).
 Any code follows the [GOV.UK Frontend coding standards](https://github.com/alphagov/govuk-frontend/tree/master/docs/contributing/coding-standards) and is ready to merge into GOV.UK Frontend. |
 | Versatile    | 
-The implementation is versatile enough that component or pattern can be used in a range of different services that may need it. <br>
+The implementation is versatile enough that component or pattern can be used in a range of different services that may need it.
 
-For example, a versatile date input component could be set up to ask for a year only, a month and year only, a precise date, or any other combination you may need. <br>
+For example, a versatile date input component could be set up to ask for a year only, a month and year only, a precise date, or any other combination you may need.
 
 The component or pattern must also have been tested and shown to work with a range of browsers, assistive technologies and devices.
 |
