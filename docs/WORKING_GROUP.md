@@ -4,7 +4,7 @@ The Design System working group is a multi-disciplinary panel of representatives
 
 The working group:
 
-reviews proposals and contributions against the [contribution criteria](../contribution-criteria/)
+reviews proposals and contributions against the [contribution criteria](CRITERIA.md)
 makes recommendations to help contributors improve their work
 advocates for the needs of colleagues across government
 ## Why the working group exists

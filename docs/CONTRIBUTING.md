@@ -1,6 +1,6 @@
 # How you can contribute
 
-The [GOV.UK Design System](design-system.service.gov.uk) is for everyone, with a strong community sitting behind it. It brings together the latest research, design and development from across government to make sure it’s representative and relevant for its users.
+The [GOV.UK Design System](https://design-system.service.gov.uk) is for everyone, with a strong community sitting behind it. It brings together the latest research, design and development from across government to make sure it’s representative and relevant for its users.
 
 ## Discussing styles, components and patterns
 
@@ -17,7 +17,7 @@ For example, you can:
 
 Anyone can propose a new component or pattern for the GOV.UK Design System.
 
-To be successful, proposals need to show that the component or pattern being suggested would be [useful and unique](/CRITERIA.md).
+To be successful, proposals need to show that the component or pattern being suggested would be [useful and unique](CRITERIA.md).
 
 Follow 3 steps to propose a component or pattern for the Design System.
 
@@ -37,7 +37,7 @@ At this stage, you just need to present your idea and evidence of the user needs
 
 ### 3. Send your proposal for review
 
-The Design System team will help you prepare your proposal and share it with the [Design System working group](/WORKING_GROUP.md) to review.
+The Design System team will help you prepare your proposal and share it with the [Design System working group](WORKING_GROUP.md) to review.
 
 When your proposal is ready, the Design System team will send it to the working group one week before their next monthly meeting.
 
@@ -81,11 +81,11 @@ Once you have collected some examples and research findings, you should start de
 
 Ideally you’ll research as part of an actual service, but it’s possible to test using prototypes as long as they are realistic. Work with your own team or find a team to work with through the design community. 
 
-Once you have researched the component or pattern and shown it works for users, the [Design System working group](/WORKING_GROUP.md) will review it.
+Once you have researched the component or pattern and shown it works for users, the [Design System working group](WORKING_GROUP.md) will review it.
 
 ### Send your contribution for review
 
-All components and patterns must meet the [contribution criteria](/CRITERIA.md) before they can be published. The Design System working group will use the criteria to review your contribution.
+All components and patterns must meet the [contribution criteria](CRITERIA.md) before they can be published. The Design System working group will use the criteria to review your contribution.
 
 To arrange a review, tell the Design System team your contribution is ready. The team will check your work before letting the working group know it’s ready to review. 
 
