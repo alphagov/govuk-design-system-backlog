@@ -4,7 +4,7 @@ All design patterns and components in the GOV.UK Design System should follow the
 
 # Title
 
-[Overview - no H2]
+[Overview]
 
 If the component/pattern is experimental, include this line:
 
