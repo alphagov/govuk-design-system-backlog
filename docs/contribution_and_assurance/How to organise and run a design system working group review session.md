@@ -16,15 +16,15 @@ The GOV.UK Design System holds working group review sessions on the last Thursda
 ## Week 2 - Send contributions
 
 - Once you have confirmation that the contributions are ready to send, create a Google form to collect the working group’s responses. Make a copy of [this form template](https://docs.google.com/a/digital.cabinet-office.gov.uk/forms/d/12AiHubZO4zP3zuIsl6pG4pHsum-yoZgBLn1y7Nx4RSQ/edit?usp=sharing) and update it with details of the contributions you’re going to send. Remember to change the permissions so that people outside of Cabinet Office can use the form
-- Email the working group using the [Email template for sending contributions]().
+- Email the working group using the [Email template for sending contributions](https://github.com/alphagov/govuk-design-system-backlog/blob/master/docs/contribution_and_assurance/Working%20group%20email%20templates.md).
 - The template reminds representatives that if they cannot attend the session, they should tell us in advance by email or by responding to the calendar invitation. If any of the representatives cannot attend, ask them to provide their recommendations and decisions anyway and say that you can read the response out on their behalf in the session. 
-- Monitor responses as they come in. Copy and paste the feedback into the [decision log]().
+- Monitor responses as they come in. Copy and paste the feedback into the [decision log](https://github.com/alphagov/govuk-design-system-backlog/blob/master/docs/contribution_and_assurance/Design%20System%20working%20group%20decision%20log.md).
 
 ## Week 3 - Collect responses
 
 - Chase any outstanding responses from working group representatives.
 - When all of the responses are in, let the contribution supporters know so that they can discuss it with the contributors.
-- Update the [facilitator’s discussion guide]() as necessary for the session.
+- Prepare a facilitator’s discussion guide as necessary for the session.
 
 ## Week 4 - Run session
 
@@ -35,6 +35,6 @@ The GOV.UK Design System holds working group review sessions on the last Thursda
 ## Week 5 - Share outcomes
 
 - Share session notes with the people in the team who are supporting the contributions that were reviewed. They should go through the notes, and write a summary to send to the working group within one week.
-- Once you have received the summaries, email the working group [using this template]() to confirm the outcomes and ask for their feedback on the process.
-- Some departments cannot access Google docs, so attach a PDF including the detailed [review session notes]() including a summary of decisions and recommendations (to publish in GitHub).
-- If there are no more changes, publish the recommendations in the first comment of the Github thread for the contribution in the [Community backlog](). 
+- Once you have received the summaries, email the working group to confirm the outcomes and ask for their feedback on the process.
+- Some departments cannot access Google docs, so attach a PDF including the detailed review session notes including a summary of decisions and recommendations (to publish in GitHub).
+- If there are no more changes, publish the recommendations in the first comment of the Github thread for the contribution in the [Community backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1). 
