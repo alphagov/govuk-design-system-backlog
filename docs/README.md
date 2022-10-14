@@ -1,26 +1,23 @@
-# GOV.UK Design System Community Backlog
+# GOV.UK Design System: Discuss styles, components and patterns
 
 ## About this repo
 
-This is a place for the UK government community to coordinate the development of new components and patterns for the  beta of the [GOV.UK Design System](https://design-system.service.gov.uk/).
-
+This is a place for the UK government community to discuss potential new components and patterns for the [GOV.UK Design System](https://design-system.service.gov.uk/).
 
 ---
 
-### **[View the community backlog](https://github.com/orgs/alphagov/projects/43)**
+### **[View and discuss styles, components and patterns](https://github.com/orgs/alphagov/projects/43)**
 
 ---
 
 ## Support
 
-If you have any questions about this backlog you can use the issue comments, email the [Design System Team](mailto:govuk-design-system-support@digital.cabinet-office.gov.uk) or use the [#govuk-design-system](https://ukgovernmentdigital.slack.com/messages/govuk-design-system) channel on cross-government Slack.
+If you have any questions about this repository you can comment on the issues, email the [Design System Team](mailto:govuk-design-system-support@digital.cabinet-office.gov.uk) or use the [#govuk-design-system](https://ukgovernmentdigital.slack.com/messages/govuk-design-system) channel on cross-government Slack.
 
 
 ## Contributing
 
-During beta you can contribute by discussing and proposing components and patterns.
-
-[Read our contribution guidelines](CONTRIBUTING.md) and then [check the community backlog](https://github.com/orgs/alphagov/projects/43) to see what's needed.
+[Check our upcoming components and patterns]([https://github.com/orgs/alphagov/projects/43](https://design-system.service.gov.uk/community/upcoming-components-patterns/) to see what's most needed and how to contribute.
 
 
 
