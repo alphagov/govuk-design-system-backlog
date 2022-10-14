@@ -7,7 +7,7 @@ This is a place for the UK government community to coordinate the development of
 
 ---
 
-### **[View the community backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1)**
+### **[View the community backlog](https://github.com/orgs/alphagov/projects/43)**
 
 ---
 
@@ -20,7 +20,7 @@ If you have any questions about this backlog you can use the issue comments, ema
 
 During beta you can contribute by discussing and proposing components and patterns.
 
-[Read our contribution guidelines](CONTRIBUTING.md) and then [check the community backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1) to see what's needed.
+[Read our contribution guidelines](CONTRIBUTING.md) and then [check the community backlog](https://github.com/orgs/alphagov/projects/43) to see what's needed.
 
 
 
