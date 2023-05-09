@@ -17,7 +17,7 @@ If you have any questions about this repository you can comment on the issues, e
 
 ## Contributing
 
-[Check our upcoming components and patterns]([https://github.com/orgs/alphagov/projects/43](https://design-system.service.gov.uk/community/upcoming-components-patterns/) to see what's most needed and how to contribute.
+[Check our upcoming components and patterns](https://design-system.service.gov.uk/community/upcoming-components-patterns/) to see what's most needed and how to contribute.
 
 
 
