@@ -19,7 +19,7 @@ The [INSERT NAME OF CONTRIBUTION] must:
 - be tested with [these browsers](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#browsers-to-test-in) 
 - be tested with [these assistive technologies](https://www.gov.uk/service-manual/technology/testing-with-assistive-technologies#what-to-test)
 
-You can develop a new component either in a fork of GOV.UK Frontend, or by using the [GOV.UK Prototype Kit](https://govuk-prototype-kit-beta.herokuapp.com/docs).
+You can develop a new component either in a fork of GOV.UK Frontend, or by using the [GOV.UK Prototype Kit](https://prototype-kit.service.gov.uk).
 
 ### Design criteria
 
