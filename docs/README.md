@@ -7,4 +7,4 @@ This is repository historically held GitHub issues where the community backlog l
 > [!NOTE]  
 > ## Discussions have moved
 >
-> Community backlog discussions have moved to [the GOV.UK Design System GitHub Discussions space](https://github.com/alphagov/govuk-design-system/discussions/categories/community-backlog).
+> Community backlog discussions have moved to [the GOV.UK Design System GitHub Discussions space](https://github.com/alphagov/govuk-design-system/discussions).
